@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="GreenApp">#68893d</color>
+    <color name="RedApp">#D64F19</color>
+    <color name="White">#ffffff</color>
+    <color name="Blcak">#000000</color>
+</resources>
